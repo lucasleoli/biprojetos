@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Power BI Dashboard</title>
+</head>
+<body>
+    <h1>Meu Dashboard do Power BI</h1>
+    <iframe width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODhlZTBmZjctMDM1My00Y2RhLTliYmMtMTNhOWFmMmYwZTBhIiwidCI6Ijc1OWViNDRiLWVkODQtNGYyMS1hOTllLTRiZjkzOTQyZGNmMiJ9" frameborder="0" allowFullScreen="true"></iframe>
+</body>
+</html>
